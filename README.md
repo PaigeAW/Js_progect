@@ -5,4 +5,4 @@
 5. сооздал кнопку, останавливающую движение персонажа
 
 
-git@github.com:PaigeAW/Js_progect.git
+https://github.com/PaigeAW/Js_progect
